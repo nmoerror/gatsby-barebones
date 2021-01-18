@@ -6,15 +6,15 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "4Xlf2SSPFgEOIIuxOV6io3M6jNyhMIEfzIU6MEWelRg",
-        spaceId: "870fj174ugiw",
+        accessToken: "",
+        spaceId: "",
       },
     },
     "gatsby-plugin-styled-components",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "207842898",
+        trackingId: "",
       },
     },
     "gatsby-plugin-sharp",
